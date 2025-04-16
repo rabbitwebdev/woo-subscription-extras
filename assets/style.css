@@ -1,0 +1,14 @@
+#wse-step-form {
+    margin: 20px 0;
+}
+
+.wse-step {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button.next-step,
+button.prev-step {
+    margin-top: 10px;
+}
