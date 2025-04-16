@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Woo Subscription Extras
  * Description: Adds optional extras to WooCommerce Subscriptions in a step-by-step wizard.
- * Version: 1.0
+ * Version: 2.0
  * Author: ZapStart Digital
  */
 
